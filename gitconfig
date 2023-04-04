@@ -9,4 +9,6 @@ git config user.email "rjat@gamil.com" (to set email )
 
 
 
- 
+git config --global credential.helper store  (to save tocken ) 
+vim /root/.config (to see there is tocken is save )
+
