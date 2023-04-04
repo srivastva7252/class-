@@ -1,0 +1,24 @@
+VIC =
+    version control system that records change to file or set of file over time so that you can recall  specifil verion late.
+
+     problem = repository access 
+     example = vcs tools
+
+
+CVCS =
+         centrelized version control system is one cretral repository which is the server 
+         problem= every user who need to access the repository must have be internet 
+           expamle = subversion perforce revision 
+
+
+DVCS =
+         distributed version control system allows every user to work completety offline but user need network to share thari repositiory with other user
+
+        expamle = git
+
+
+
+           git benifits= work on snapshots  
+                        every operation is locAL 
+                        git has intergrity
+                        git generally only adds data
