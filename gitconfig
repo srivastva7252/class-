@@ -1,0 +1,12 @@
+git config user.name "rajat"
+git config --global user.name "rajat"
+git config --system user.name "rajat "
+    
+     three all use for set username but ther is litterbit diffrent that is user.name single set username of which location we present dir  but --global use to set in root user done dir but --system it set full system user 
+
+
+git config user.email "rjat@gamil.com" (to set email )  
+
+
+
+ 
