@@ -1,0 +1,8 @@
+yum install git -y(to install git)
+
+git init (with  this create emty repository in dir  name of .git  )
+git add . (to track file by git)
+git commit -m "m for massage " (to create verison )
+git log (to see log )
+git status {to see status or detiles }
+
