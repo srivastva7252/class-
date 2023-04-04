@@ -1,0 +1,5 @@
+git clone publiclink (to download other repository )
+git remote add Grras link (to set link name in short)
+git remote {to see which link name set or see link repository }
+git remote -v (to see full dealties of link)
+git push -u grras master (to push for file in github )
